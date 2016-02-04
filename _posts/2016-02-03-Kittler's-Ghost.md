@@ -2,7 +2,7 @@
 layout: post
 title: Kittler's Ghost
 description: and other hallucinations
-categories: blog
+categories: blogging
 ---
 I think both [Diana](http://dianarosenberger.github.io/blog/2016-02-03/week3-2ndpost.html) and [Joe](http://joetorok.github.io/blog/2016-02-03/kitler-gramaphone-film-typewriter-blog.html) are onto something in their reading of Kittler this week. They trace an alienation of physiological and perceptual human capacities in Kittler, which is a way to yoke Kittler’s descriptions of mediums to those of McLuhan. I want to extend on their comments by pointing to a certain supernatural flavor in Gramaphone, where this alienation then gives way to the breakdown of cognition, as well as an upending of time. The phonograph, or sound technology in general, seems to have a mystical character that surface periodically in this chapter. The dead, the photographed or otherwise recorded, are real for Kittler, and such is the lesson we must learn from Maurice Renard’s tale of composer who fails to capture the siren screams of ghosts the medium of musical notation. It may be typical to focus most of my attention on the “wild and lustful” screams of a sea goddess with over a hundred pages of text, but bear with me. In this instance, I can’t help but think of Andre Bazin and the temporal overcoming of the soul via photographic capture. Kittler acknowledges some of this in his comments on Renard’s tale: “Once technological media guarantee the similarity of the dead to stored data by turning them into the latter’s mechanical product, the boundaries of the body, death and lust, leave the most indelible traces” (55).
 
