@@ -2,7 +2,7 @@
 layout: post
 title: Agent Codey Banks
 description: Coding update
-categories: blogging, coding
+categories: blogging
 ---
 I don't have much to report here, seeing as I am drastically behind on my dailies. I hope to remedy that tomorrow. I do, on the hand, have some interesting sketches up and running. By practicing functions, I was able to achieve a sun set! I learned that built-in functions such as "background" are themselves up for manipulation. By presetting RGB values for my background, and then creating a separate function for *drawing* the background, I was able to simultaneously run a yellow, vertically moving ellipse (the sun), with the decreasing color values for my background (the sky). The result is a moving, bucolic scene to rival Thomas Kinkade himself! I'm not sure that I can host java code here, and am still hesitant to create a new repositories for my sketches, but I would love to show my sketch to anyone interested.
 
