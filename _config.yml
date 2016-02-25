@@ -9,7 +9,7 @@ github_username: HassanA85 # replace with your github username
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 #highlighter: rouge # this will cause a harmless error on github build; you can ignore it
-highlighter: pygments # this will break a local jekyll hosting situation without a lot of work
+highlighter: rouge # this will break a local jekyll hosting situation without a lot of work
 
 # Pagination
 gems: [jekyll-paginate]
