@@ -1,0 +1,9 @@
+---
+layout: post
+title: Code Conduct
+description: Trudging Along
+categories: blogging, coding
+---
+I’ve been thinking about this idea of obfuscation in software a lot this week, knowing that this is crucial to making code human readable. Bad code is always easier to write, and with less limitations I am able to force things into working. However, this almost always renders my code less repeatable and therefore less usable. I get hung up on this in a big way, and though I know we are expected to write a bit at a time, I become easily obsessed with getting things right, being a little more creative, or incorporating code outside of our dailies’ purview. For instance, I have been trying (too hard) to incorporate an outside image into my “a lot of something” daily and have some real difficulty understanding the concept on the p5.js library. I understand the path for the image needs to be in the HTML file that links to my sketch, but I’m not sure where how to add that to my index.html.
+
+Coding can be frustrating because it demands rote learning on some level, while asking the programmer to keep things causal and logical. I try and keep these two demands in mind, but get irritated every time I have to reference some basic aspect of java script, or have to be shown the way directly. Another problem is that somewhere along the way, I abandoned the p5.js editor to start working exclusively in ATOM. I may have made this move prematurely since working in a new environment has been a bit jarring. I had to figure out how to get line numbers to display on my screen. Imagine having to work without them! I have not given up on making something of this time and effort, and will achieve coding Zen just yet. Articulating my experiences on this blog helps ease the pain considerably. I look forward to seeing everyone in class tomorrow.
