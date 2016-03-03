@@ -2,7 +2,7 @@
 layout: post
 title: Getting Close
 description: Almost There
-categories: blogging, coding
+categories: blogging coding
 ---
 Yet another week of anxiety wrought coding and I think things are finally coming together. I keep having to reshape how I learn and practice code, a big part of which is to organize myself and focus on getting the small stuff right. I often struggle against impatience, and although I feel good about the things I’ve learned so far, writing code while remaining human-legible continuous to be a difficult. In the spirit of setting near-impossible goals, I’m giving myself one more weekend to finish the rest of my dailies and begin my project. Mercy.
 

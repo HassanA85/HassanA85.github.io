@@ -2,7 +2,7 @@
 layout: post
 title: Group Magic
 description: Co-lab
-categories: blogging, coding
+categories: blogging coding
 ---
 I share everyone else’s feelings about the group coding session last Thursday. I had quite the time working on the two problems with Aden. We were both slightly behind on our dailies, and so lacked the confidence to tackle the problem properly. However, this did not hamper our efforts, and we took time to workshop ideas, use the p5 reference page, and share our knowledge of java with each other. The biggest advantage of working with someone else is to learn that most people have similar experiences while learning code as noobs. After listening to someone else explain their difficulties, I try and relax and stop worrying so much about my own. I remind myself that our labs are more about engagement with code than mastery of it.
 

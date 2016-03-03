@@ -2,7 +2,7 @@
 layout: post
 title: Coding Update
 description: Dear Diary
-categories: blogging
+categories: blogging coding
 ---
 
 I am thankful for the low coding load this week. The Hawarway and Stiegler essays took enough mental energy to get through, but was something I actually enjoyed. I still have to dedicate some quality time to coding this week, and was glad to get some encouragement and advice from people during open lab last week. I am realizing certain tendencies I have working with computers and technology in general that set them apart from how I tackle theory and difficult text. Although I am much better at dedicating time to closely read theory, I find myself falling in tangents that lead me to hunt down other theories relating to the text at hand. While this can be a good thing, I get impatient and disappointed by the sheer amount of theory and philosophy I have yet to explore. Coding is a different matter. I recognize now that I could make my practices more efficient, I am much better at taking baby steps and enjoying the process for what it is.
