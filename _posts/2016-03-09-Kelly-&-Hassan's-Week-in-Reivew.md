@@ -6,6 +6,7 @@ categories: blogging
 ---
 March 3, 2016 - Week in Review
 By: Hassan Abbas & Kelly Polasek  
+
 #### **Seminar Topic: Protocol and Control**
 
 I. Suggested Questions for Discussion  
