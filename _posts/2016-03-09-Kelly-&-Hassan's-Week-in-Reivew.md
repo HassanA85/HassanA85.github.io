@@ -6,7 +6,7 @@ categories: blogging
 ---
 March 3, 2016 - Week in Review
 By: Hassan Abbas & Kelly Polasek  
-##### **Seminar Topic: Protocol and Control**
+#### **Seminar Topic: Protocol and Control**
 
 I. Suggested Questions for Discussion  
 Courtney: What does the concept of dividual mean as opposed to individuals?
@@ -42,7 +42,7 @@ VI. Current Event: Apple v. FBI
 We wrap our discussion with an example from current events. In the case of Apple being compelled by the FBI to unlock an iPhone, it’s not that Apple doesn’t have the capacity for the technology, it’s that they’re choosing not to do it. That means there’s something outside and above the technology itself. This case is playing out legally and involves a 1789 law’s interpretation; this weird asynchronous temporality feels significant to Scott. Archaic law co-existing with technology has weird effects.
 On the other side of things, the reason Apple doesn’t want to do comply with the FBI’s request is that they want to sell the fantasy (and to some degree the practice) of security. At the same time, most hacking has to do with human factors, not brute force hacking. Apple is fighting this as marketing. The government wants to win the case in the name of security in terms of intensified personal control. Here, we have two institutions fighting over which one neoliberalism better. It’s an uneasy coexistence of disciplinary and control society.  
 
-##### **The Blogs**  
+#### **The Blogs**  
 
 The discussion in the blogosphere centered mostly on issues of power and politics that can be derived from living in the digital age, and some contemporary correlates that enact the complex relationships between humans, computers and institutions. Zach Blas’ *Facial Weaponization Communiqué* may have opened the door for this. Frankly, the underbelly of surveillance and bio-governance that Blas describes hits close to home, although the effects may not be as widespread as we think, lest we forget that these technologies of recognition and control both template and privilege certain bodies (white, male, heterosexual) over others. Being told about these insidious programs can be a sobering experience, especially when one considers their decentralized and distributed structures, their dividualising powers, and their transferability across governmental and corporate institutions. In this way, these bio-surveillance mechanisms preside equally in Galloway via Deleuze, as they do in Deleuze via Foucault.  
 
