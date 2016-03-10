@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can't Play, Won't Play
-description: Jeu ain't playin
+description: Jeu ain't playin'
 categories: blogging
 ---
 I really (really) like the way Jagoda, Hodge and Golumbia think about games. There are several reasons for this, but the prominent ones I want to attend to here are how each specify what it really means to play computer games (both commercially viable and the indie type), and how each find it important to set these descriptions against a background of relationality, sociality and politics. All three essays are somewhat polemical, and I feel that a conceptual line could be drawn between them, at least in the way each points to the mischaracterization of most video games as *play*, or indeed *games*.
