@@ -10,10 +10,10 @@ By: Hassan Abbas & Kelly Polasek
 #### **Seminar Topic: Protocol and Control**
 
 I. Suggested Questions for Discussion  
-Courtney: What does the concept of dividual mean as opposed to individuals?
-Diana: What does Galloway mean (on page 52 in Protocol) when he says, “protological objects never contain their own protocol,” and how does that relate to our coding? What do we do when there is no protocol? How does real life intervene in what we determine our protocol could be (e.g., in the current case Apple v. FBI)?
-Noah: What’s going on in the ‘Program’ section of Deleuze’s “Postscript on the Societies of Control”? On another note, what does Galloway mean in “Networks” when he talks about ‘not logos, but ergon (work)?
-Joe: What is Galloway mean by open run time (movement) as opposed to an open source movement? What might this look like? What are the implications of Galloway’s talk about the ‘shift away from reading’ on page 52 of Protocol)? With regard to Blas’s work, how can we take the term anonymity and translate it into resistance?
+Courtney: What does the concept of dividual mean as opposed to individuals?        
+Diana: What does Galloway mean (on page 52 in Protocol) when he says, “protological objects never contain their own protocol,” and how does that relate to our coding? What do we do when there is no protocol? How does real life intervene in what we determine our protocol could be (e.g., in the current case Apple v. FBI)?   
+Noah: What’s going on in the ‘Program’ section of Deleuze’s “Postscript on the Societies of Control”? On another note, what does Galloway mean in “Networks” when he talks about ‘not logos, but ergon (work)?   
+Joe: What is Galloway mean by open run time (movement) as opposed to an open source movement? What might this look like? What are the implications of Galloway’s talk about the ‘shift away from reading’ on page 52 of Protocol)? With regard to Blas’s work, how can we take the term anonymity and translate it into resistance?    
 David: Galloway is ‘demystified’ (on page 53 of Protocol). Can we demystify his demystification?
 
 II. Blas and the Facial Weaponization Suite  
