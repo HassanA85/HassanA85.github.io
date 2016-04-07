@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Encounters
-description: The Almost-You
+description: Almost-You
 categories: blogging
 ---
 
