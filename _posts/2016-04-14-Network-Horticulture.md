@@ -1,0 +1,11 @@
+---
+layout: post
+title: Network Horticulture
+description: I've Got Network Fever, You've Got Network...
+categories: blogging
+---
+I was excited to get a chance to read some of Tung-Hui Hu’s new book after reading reviews about it over the past few months. I want to talk about some of the sections I found notable in the few chapters we read this week. I hope that his analyses of networks can sum up or meet with our in-class network specific deliberations. However, I should add that reading through the introduction, I may have gotten a whiff of sheer description and text-book like clarifications akin to both Galloway and most new-media folk writing about the internet these days. Although my critique of them remains half-baked, I think one can only be bemused by the physical and statistical fact of the vast and ominous media infrastructure to a point.
+
+This could very well sum up my contention with contemporary new-media scholars for now. Yet, there remains something interesting about the process of description in many of these writings. Most, like Hu, are able to find one or two humanistic claim to pivot and/or localize their vast inquiries into the histories and make-up of new media. Tung-Hui Hu thinks from yet another corner, this time about networks as ideology, as “metaphor for knowledge”, or as a “system of belief” (10). So despite my initial resistance, I felt it easy to cozy up to Hu’s unique voice in the contemporary conversation.
+
+Another one of Hu’s points I gravitate towards is his own critique of new-media scholarship. But we should pay close attention to the handful of things Hu wants to think of differently. First, the shape of modern communication networks themselves (they don’t like A, they look like B), and secondly (at least in the first chapter) whether free internets in the West are really as impervious to attacks as Galloway may claim. I am curious to see if anyone else gets the feeling that this debate is prone to stoppage and is fussy and pedantic. It may be historic, but not in fully in the Foucauldian sense (though this comparison has been made). I am going to stop now, for I feel this post is running too long and that I may be getting too big for my britches. I hope to articulate this in class a bit further tonight.
