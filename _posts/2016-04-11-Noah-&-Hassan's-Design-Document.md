@@ -2,7 +2,7 @@
 layout: post
 title: Noah & Hassan's Design Document  
 description: Speculative Game Box
-categories: blogging
+categories: blogging major-assignments
 ---
 **Goals**:
 

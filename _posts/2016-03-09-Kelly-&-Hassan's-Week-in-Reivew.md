@@ -2,7 +2,7 @@
 layout: post
 title: Kelly & Hassan's Week in Review
 description: Power and Control / Galloway, Deleuze, Blas
-categories: blogging
+categories: blogging major-assignments 
 ---
 March 3, 2016 - Week in Review
 By: Hassan Abbas & Kelly Polasek  

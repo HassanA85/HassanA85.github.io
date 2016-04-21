@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hassan & Noah's Final Project Spec
+description: A Collaborative Google Doc
+categories: blogging major-assignments
+---
+For our final project, we are electing to continue working on our Speculative Game Box in some capacity; however, rather than refining it as a physical construct, we’ve elected instead to refine it as an idea, by following a couple of different directions that we imagine that this piece could go, which are 1) a consumer good, and 2) a museum piece. We aim to elaborate upon the considerations for designing these two different applications, as well as the implications of their individual and distinct settings (staging) and the subsequent physical and intellectual effects upon the user.
+
+We feel that the different settings for the box will mean two very different feelings and experiences, and this fact is important to considering what it does as an individual object. Therefore, there's a rationale behind placing the box in these two different environments: the consumer friendly box can help us think about games as a commodity, as a media-artifact that has direct political and economic implications for and effects on bodies, and as a modality or a habituated process that we end up never fully considering or recognizing. The gallery piece can allow us to feature some of the box’s critical points in a more substantial way. The gallery can also provide the space and time to reflect on bodily attachments to new media that one may not fully conceptualize with the consumer option. Finally, we aim to compare these two conceptual experiences and designs, as well as analyze the effects of spelling these ideas out in document form.
+
+[We’ve made a spec on Google Docs that’s available to comment upon](https://docs.google.com/document/d/1Ai79SXt51GNVt9d478-pBO5rFP6vt8ecR3hUF7AoJ0s/edit?usp=sharing), in part because it’s hard as hell to write about feelings and habituations and we want to make our process public. We aim to edit and modify this document over time, especially at the final stages of our project paper. Please excuse the casual profanity; this doc is also a space for Noah and I to toss around ideas about the project and its themes. Apparently this is how we discuss such things. 
